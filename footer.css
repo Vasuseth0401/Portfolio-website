@@ -1,0 +1,10 @@
+.Footername{
+    width:100vw;
+    height: 4rem;
+    background:rgba(40,40,40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size:medium;
+}
