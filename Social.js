@@ -37,7 +37,7 @@ function Social() {
            <a href="www.linkedin.com/in/vasu-seth-744072257/"><img src={Linkedin} alt="hi" className='socialimg'/></a>
            <a href="#"><img src={Facebook} alt="hi" className='socialimg'/></a>
            <a href="#"><img src={Instagram} alt="hi" className='socialimg'/></a>
-           <a href="#"><img src={Github} alt="hi" className='socialimg'/></a>
+           <a href="https://github.com/Vasuseth0401"><img src={Github} alt="hi" className='socialimg'/></a>
     </div>
     
     <div id='contact'>
