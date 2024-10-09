@@ -9,7 +9,7 @@ const project=()=>{
         <span className="p2">project of html and css</span>
         <div className="project1">
         <div className="project-img">
-           <a href="#"><img src={Project} alt="logo" className="pro"/></a>
+           <a href="https://github.com/Vasuseth0401/Landing-page"><img src={Project} alt="logo" className="pro"/></a>
         </div>
           <div className="itemdetails">
             <h2 className='p3'>Project-1</h2>
